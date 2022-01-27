@@ -4,4 +4,4 @@ Sovellus johon voi lisätä uusia työtehtäviä aloitus ja lopetus päivämää
 
 Sovellukseen käytetty React/Javascript/css/html
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image]()
