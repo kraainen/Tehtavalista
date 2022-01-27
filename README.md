@@ -1,3 +1,3 @@
 # Tehtavalista
 
-Tehtävä johon voi lisätä uusia työtehtäviä aloitus ja lopetus päivämäärällä
+Sovellus johon voi lisätä uusia työtehtäviä aloitus ja lopetus päivämäärällä
