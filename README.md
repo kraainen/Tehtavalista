@@ -4,4 +4,4 @@ Sovellus johon voi lisätä uusia työtehtäviä aloitus ja lopetus päivämää
 
 Sovellukseen käytetty React/Javascript/css/html
 
-![This is an image]()
+![This is an image](sieppaa.PNG)
